@@ -1,0 +1,68 @@
+Release Notes Template for One Finance BPM Backend
+
+Project: One Finance BPM Backend
+Technology: Dotnet Core 8 ABP.io
+Version: v1.0.0.0
+Release Date: [Release Date]
+
+Overview
+This document outlines the release notes for the v1.0.0.0 of the One Finance BPM Backend. This release includes new features, improvements, bug fixes, and updates to existing endpoints to enhance the overall functionality and user experience.
+
+New Features
+[Feature Name]
+
+Description: [Brief description of the new feature]
+Endpoint: [API endpoint URL]
+Details: [Detailed explanation of the new feature, including any new parameters, response structures, or functionality]
+
+[Feature Name]
+
+Description: [Brief description of the new feature]
+Endpoint: [API endpoint URL]
+Details: [Detailed explanation of the new feature, including any new parameters, response structures, or functionality]
+
+Improvements
+[Improvement Description]
+
+Endpoint: [API endpoint URL]
+Details: [Detailed explanation of the improvement, including what was enhanced and the benefits]
+[Improvement Description]
+
+Endpoint: [API endpoint URL]
+Details: [Detailed explanation of the improvement, including what was enhanced and the benefits]
+Bug Fixes
+[Bug Description]
+
+Endpoint: [API endpoint URL]
+Issue: [Brief description of the bug]
+Resolution: [Detailed explanation of the fix implemented]
+[Bug Description]
+
+Endpoint: [API endpoint URL]
+Issue: [Brief description of the bug]
+Resolution: [Detailed explanation of the fix implemented]
+Deprecated Features
+[Deprecated Feature Name]
+Description: [Brief description of the deprecated feature]
+Endpoint: [API endpoint URL]
+Details: [Detailed explanation of why the feature was deprecated and any recommended alternatives]
+Known Issues
+[Issue Description]
+
+Endpoint: [API endpoint URL]
+Details: [Explanation of the issue, impact on the system, and any workarounds]
+[Issue Description]
+
+Endpoint: [API endpoint URL]
+Details: [Explanation of the issue, impact on the system, and any workarounds]
+Notes
+Security Enhancements: [Brief description of any security updates or patches]
+Documentation: [Links to updated API documentation, user guides, or other relevant resources]
+Contact Information: [Contact details for support or further inquiries]
+Acknowledgments
+We would like to thank all the contributors and users who provided valuable feedback and helped improve the One Finance Mobile Application Backend.
+
+Prepared by: [Your Name]
+Date: [Preparation Date]
+
+For any questions or concerns, please contact our support team at [support email or contact information].
