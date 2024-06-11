@@ -22,6 +22,13 @@ function configureRoutes(routesService: RoutesService) {
         order: 2,
         layout: eLayoutType.application,
       },
+      {
+        path: '/faq',
+        name: '::Menu:Faqs',
+        iconClass: 'bi bi-question',
+        order: 3,
+        layout: eLayoutType.application,
+      },
     ]);
   };
 }
