@@ -1,6 +1,6 @@
 import { Environment } from '@abp/ng.core';
 
-const baseUrl = 'http://localhost:4200';
+const baseUrl = 'https://one-finance-bpm-fe.vercel.app';
 
 export const environment = {
   production: false,

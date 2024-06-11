@@ -10,7 +10,7 @@ export const environment = {
     logoUrl: '',
   },
   oAuthConfig: {
-    issuer: 'https://localhost:44351/',
+    issuer: 'https://one-finance-bpm-fe.vercel.app',
     redirectUri: baseUrl,
     clientId: 'BPM_App',
     responseType: 'code',
